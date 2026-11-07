@@ -1,0 +1,1201 @@
+Customer_ID,Campaign_Group,Age,Gender,Website_Visits,Session_Minutes,Purchase_Made,Order_Value_INR,Satisfaction_Before,Satisfaction_After
+CUST0001,Social Media,25,Male,7,13.7,0,0.0,3,3
+CUST0002,Email,26,Female,9,18.6,0,0.0,3,3
+CUST0003,Social Media,56,Female,6,7.6,0,0.0,3,3
+CUST0004,Social Media,50,Male,6,13.9,0,0.0,3,3
+CUST0005,Control,30,Female,4,3.5,0,0.0,3,3
+CUST0006,Social Media,31,Male,6,5.2,0,0.0,3,2
+CUST0007,Social Media,24,Female,4,8.2,0,0.0,3,3
+CUST0008,Social Media,18,Female,4,6.4,0,0.0,4,4
+CUST0009,Control,33,Male,7,6.0,0,0.0,2,3
+CUST0010,Email,25,Female,5,13.0,0,0.0,2,3
+CUST0011,Email,33,Male,7,3.1,0,0.0,4,4
+CUST0012,Social Media,20,Male,3,3.3,0,0.0,3,5
+CUST0013,Email,27,Female,4,2.4,0,0.0,3,3
+CUST0014,Social Media,35,Male,5,8.3,0,0.0,3,3
+CUST0015,Email,37,Male,6,5.5,0,0.0,3,2
+CUST0016,Control,38,Male,2,12.2,0,0.0,3,3
+CUST0017,Email,22,Male,6,7.8,1,371.81,4,5
+CUST0018,Control,42,Male,9,4.6,0,0.0,2,2
+CUST0019,Social Media,27,Male,14,4.1,0,0.0,3,3
+CUST0020,Email,40,Female,9,1.0,1,593.77,1,2
+CUST0021,Social Media,34,Male,7,6.2,1,382.39,4,3
+CUST0022,Email,22,Male,5,2.8,0,0.0,3,3
+CUST0023,Social Media,31,Male,4,13.2,1,739.19,4,5
+CUST0024,Social Media,37,Male,7,5.3,0,0.0,4,5
+CUST0025,Social Media,40,Female,5,2.0,0,0.0,4,4
+CUST0026,Control,33,Male,13,14.8,0,0.0,3,4
+CUST0027,Email,48,Other,7,6.2,0,0.0,4,3
+CUST0028,Control,43,Female,6,10.0,0,0.0,2,1
+CUST0029,Control,32,Female,3,4.6,0,0.0,2,3
+CUST0030,Social Media,41,Male,7,15.2,0,0.0,3,4
+CUST0031,Social Media,51,Male,4,3.7,0,0.0,3,3
+CUST0032,Social Media,52,Male,7,5.5,0,0.0,4,4
+CUST0033,Control,23,Female,4,1.5,0,0.0,4,3
+CUST0034,Email,26,Female,8,14.9,1,917.89,3,4
+CUST0035,Email,47,Male,8,4.2,0,0.0,3,3
+CUST0036,Control,24,Male,6,8.4,0,0.0,3,3
+CUST0037,Control,22,Male,11,9.2,0,0.0,3,2
+CUST0038,Email,30,Male,5,13.5,0,0.0,3,4
+CUST0039,Control,38,Male,6,8.0,0,0.0,3,3
+CUST0040,Social Media,33,Male,4,6.5,0,0.0,2,1
+CUST0041,Email,28,Male,7,12.6,0,0.0,1,2
+CUST0042,Social Media,28,Male,3,9.1,0,0.0,3,5
+CUST0043,Social Media,28,Male,3,5.8,0,0.0,4,5
+CUST0044,Control,26,Female,4,15.4,0,0.0,3,4
+CUST0045,Social Media,55,Female,9,9.6,0,0.0,4,4
+CUST0046,Social Media,37,Male,7,2.6,0,0.0,3,3
+CUST0047,Email,42,Male,4,17.1,1,630.66,4,5
+CUST0048,Control,30,Male,11,4.5,0,0.0,4,4
+CUST0049,Social Media,32,Female,8,13.4,0,0.0,4,5
+CUST0050,Control,28,Male,7,2.1,1,731.53,2,1
+CUST0051,Control,18,Female,7,12.6,0,0.0,3,3
+CUST0052,Control,22,Male,6,2.7,1,507.32,4,5
+CUST0053,Social Media,18,Male,3,7.9,0,0.0,3,3
+CUST0054,Email,18,Male,5,9.4,0,0.0,4,4
+CUST0055,Social Media,23,Male,7,5.9,0,0.0,2,3
+CUST0056,Social Media,46,Female,7,7.0,0,0.0,5,5
+CUST0057,Email,34,Female,4,3.2,1,702.77,2,1
+CUST0058,Email,46,Male,4,11.7,0,0.0,1,1
+CUST0059,Control,38,Male,5,8.2,1,760.41,3,2
+CUST0060,Control,41,Male,3,3.7,0,0.0,1,1
+CUST0061,Social Media,26,Female,6,8.4,1,540.98,2,1
+CUST0062,Email,39,Female,3,8.5,1,846.8,5,5
+CUST0063,Email,41,Female,7,7.2,0,0.0,3,4
+CUST0064,Social Media,29,Female,2,1.0,1,189.34,2,2
+CUST0065,Email,39,Female,4,5.3,1,670.02,3,3
+CUST0066,Email,39,Male,6,11.6,0,0.0,2,2
+CUST0067,Email,29,Male,5,9.8,0,0.0,4,5
+CUST0068,Control,24,Female,4,9.6,0,0.0,2,3
+CUST0069,Control,23,Female,4,8.1,0,0.0,3,2
+CUST0070,Email,35,Female,7,12.5,0,0.0,2,4
+CUST0071,Control,37,Male,9,4.5,0,0.0,5,5
+CUST0072,Email,27,Female,8,3.8,0,0.0,4,4
+CUST0073,Social Media,34,Male,6,19.7,0,0.0,3,4
+CUST0074,Control,39,Male,12,4.2,0,0.0,3,3
+CUST0075,Control,40,Female,5,2.5,0,0.0,3,4
+CUST0076,Control,48,Male,7,5.8,1,573.9,3,3
+CUST0077,Control,45,Male,2,7.4,1,992.0,2,2
+CUST0078,Email,25,Female,6,12.5,1,658.74,5,5
+CUST0079,Email,49,Female,8,5.3,0,0.0,3,4
+CUST0080,Social Media,29,Male,5,5.3,0,0.0,1,1
+CUST0081,Email,43,Male,7,7.0,1,704.05,2,2
+CUST0082,Email,35,Male,7,4.7,0,0.0,4,5
+CUST0083,Social Media,30,Male,9,2.1,0,0.0,3,1
+CUST0084,Control,18,Female,9,2.7,0,0.0,3,3
+CUST0085,Control,32,Male,10,14.6,0,0.0,4,4
+CUST0086,Control,20,Male,7,10.9,0,0.0,3,3
+CUST0087,Social Media,43,Female,4,6.8,0,0.0,4,4
+CUST0088,Email,48,Male,7,9.7,1,874.26,3,3
+CUST0089,Control,27,Male,2,11.1,0,0.0,4,4
+CUST0090,Email,37,Male,4,4.3,0,0.0,3,4
+CUST0091,Control,27,Female,7,3.2,0,0.0,3,3
+CUST0092,Social Media,28,Female,10,13.7,0,0.0,4,5
+CUST0093,Email,41,Male,10,1.0,1,789.69,4,4
+CUST0094,Email,34,Male,3,9.8,0,0.0,3,4
+CUST0095,Control,50,Male,6,7.8,0,0.0,3,3
+CUST0096,Email,30,Male,4,12.9,0,0.0,5,5
+CUST0097,Email,43,Female,6,10.1,1,706.35,4,5
+CUST0098,Control,35,Female,3,9.7,1,527.54,3,3
+CUST0099,Control,41,Female,5,3.4,0,0.0,3,2
+CUST0100,Social Media,30,Female,4,11.4,0,0.0,4,4
+CUST0101,Social Media,34,Female,4,9.1,1,763.52,3,4
+CUST0102,Social Media,33,Male,5,3.8,0,0.0,3,3
+CUST0103,Control,26,Female,5,7.9,0,0.0,3,4
+CUST0104,Social Media,40,Female,4,2.9,0,0.0,4,4
+CUST0105,Social Media,40,Male,10,6.2,0,0.0,3,4
+CUST0106,Social Media,39,Female,3,24.6,0,0.0,4,4
+CUST0107,Email,48,Female,5,3.3,0,0.0,4,4
+CUST0108,Control,47,Male,3,2.1,0,0.0,4,4
+CUST0109,Control,31,Female,10,2.7,0,0.0,4,4
+CUST0110,Social Media,37,Male,9,6.1,0,0.0,3,4
+CUST0111,Email,28,Male,5,10.5,0,0.0,4,4
+CUST0112,Control,34,Female,5,7.1,1,556.95,4,3
+CUST0113,Control,29,Male,6,2.3,0,0.0,4,4
+CUST0114,Email,49,Male,5,10.5,0,0.0,4,3
+CUST0115,Control,37,Male,8,1.3,0,0.0,4,5
+CUST0116,Social Media,32,Male,7,2.6,0,0.0,5,5
+CUST0117,Social Media,45,Male,3,4.5,0,0.0,3,3
+CUST0118,Social Media,18,Male,9,13.4,0,0.0,3,3
+CUST0119,Email,18,Male,3,7.3,0,0.0,3,5
+CUST0120,Email,41,Female,6,7.5,1,812.9,3,3
+CUST0121,Email,35,Male,4,2.4,1,792.65,1,1
+CUST0122,Email,36,Male,4,4.9,1,552.03,4,5
+CUST0123,Control,22,Male,8,12.2,0,0.0,2,1
+CUST0124,Email,34,Female,5,8.7,0,0.0,3,3
+CUST0125,Control,52,Female,9,10.7,0,0.0,2,2
+CUST0126,Email,41,Male,6,6.8,1,420.11,4,4
+CUST0127,Control,36,Male,5,12.3,0,0.0,2,2
+CUST0128,Control,30,Female,6,2.4,0,0.0,2,3
+CUST0129,Control,30,Female,7,6.0,1,365.52,3,4
+CUST0130,Email,18,Female,6,9.6,0,0.0,3,4
+CUST0131,Control,36,Male,6,1.7,0,0.0,3,3
+CUST0132,Social Media,42,Female,5,1.0,0,0.0,3,3
+CUST0133,Email,20,Male,7,19.7,0,0.0,4,3
+CUST0134,Email,28,Female,3,7.4,0,0.0,2,3
+CUST0135,Email,24,Female,4,1.6,0,0.0,2,1
+CUST0136,Control,25,Female,1,7.2,0,0.0,3,2
+CUST0137,Social Media,34,Male,5,2.6,0,0.0,4,4
+CUST0138,Email,18,Male,4,3.4,1,638.05,5,5
+CUST0139,Social Media,40,Male,3,13.7,0,0.0,2,2
+CUST0140,Control,41,Male,8,4.6,0,0.0,3,4
+CUST0141,Email,32,Female,3,4.6,0,0.0,4,5
+CUST0142,Email,18,Male,7,2.5,0,0.0,5,5
+CUST0143,Social Media,25,Female,6,5.4,0,0.0,2,3
+CUST0144,Email,45,Female,4,7.7,0,0.0,3,5
+CUST0145,Email,18,Female,7,4.6,0,0.0,4,5
+CUST0146,Control,31,Female,6,22.9,0,0.0,3,2
+CUST0147,Control,23,Male,5,3.1,0,0.0,3,3
+CUST0148,Email,41,Male,9,3.0,0,0.0,3,2
+CUST0149,Email,28,Male,6,5.2,1,945.17,5,5
+CUST0150,Control,38,Male,5,21.2,1,825.99,2,1
+CUST0151,Social Media,39,Male,4,10.8,0,0.0,5,5
+CUST0152,Social Media,51,Female,5,4.5,0,0.0,3,3
+CUST0153,Control,32,Female,6,4.5,0,0.0,4,3
+CUST0154,Email,37,Female,4,3.0,1,849.6,5,4
+CUST0155,Control,21,Male,5,5.1,0,0.0,3,3
+CUST0156,Social Media,45,Other,10,5.9,0,0.0,3,3
+CUST0157,Control,27,Female,5,10.5,0,0.0,4,4
+CUST0158,Email,29,Male,5,9.1,0,0.0,3,3
+CUST0159,Social Media,34,Male,4,5.0,0,0.0,4,4
+CUST0160,Social Media,20,Male,6,16.6,0,0.0,3,2
+CUST0161,Control,36,Male,2,4.1,0,0.0,4,4
+CUST0162,Social Media,43,Male,6,2.0,1,571.61,2,2
+CUST0163,Control,37,Male,6,7.9,0,0.0,2,2
+CUST0164,Control,20,Male,5,13.1,1,581.2,2,2
+CUST0165,Email,33,Female,6,6.6,1,631.67,3,4
+CUST0166,Email,41,Male,4,2.4,1,666.73,2,3
+CUST0167,Social Media,18,Female,13,7.5,1,751.35,3,3
+CUST0168,Social Media,24,Male,5,8.2,0,0.0,2,1
+CUST0169,Control,42,Female,10,8.7,0,0.0,5,5
+CUST0170,Social Media,36,Female,7,7.6,1,713.61,2,3
+CUST0171,Control,38,Female,5,14.2,0,0.0,2,1
+CUST0172,Email,51,Female,7,2.9,0,0.0,3,4
+CUST0173,Control,38,Female,4,1.0,0,0.0,5,5
+CUST0174,Social Media,40,Female,5,1.3,0,0.0,3,5
+CUST0175,Control,58,Female,5,2.4,0,0.0,3,3
+CUST0176,Control,32,Female,1,11.7,0,0.0,4,5
+CUST0177,Email,27,Male,3,5.4,0,0.0,4,3
+CUST0178,Social Media,38,Male,8,17.4,0,0.0,4,4
+CUST0179,Social Media,38,Male,5,2.7,0,0.0,3,3
+CUST0180,Social Media,29,Female,6,17.1,0,0.0,4,4
+CUST0181,Social Media,25,Female,7,3.4,0,0.0,2,3
+CUST0182,Social Media,55,Male,3,5.9,0,0.0,3,3
+CUST0183,Email,37,Female,4,1.6,0,0.0,4,4
+CUST0184,Control,27,Female,4,15.8,0,0.0,4,3
+CUST0185,Social Media,42,Male,10,6.5,1,716.7,4,5
+CUST0186,Email,33,Male,10,23.5,0,0.0,1,2
+CUST0187,Email,32,Female,4,13.5,0,0.0,2,3
+CUST0188,Control,39,Male,3,5.8,0,0.0,3,3
+CUST0189,Social Media,22,Female,7,3.9,0,0.0,3,3
+CUST0190,Control,37,Male,6,12.0,0,0.0,2,1
+CUST0191,Social Media,51,Female,4,6.9,1,738.87,3,4
+CUST0192,Control,38,Female,7,3.7,0,0.0,5,4
+CUST0193,Control,31,Male,5,7.3,0,0.0,4,4
+CUST0194,Social Media,29,Female,4,1.1,0,0.0,3,3
+CUST0195,Control,30,Male,4,8.8,0,0.0,2,1
+CUST0196,Control,32,Female,5,10.0,0,0.0,2,2
+CUST0197,Email,31,Male,8,2.7,1,800.12,2,2
+CUST0198,Social Media,42,Male,9,14.4,0,0.0,2,2
+CUST0199,Control,18,Male,5,12.5,0,0.0,3,3
+CUST0200,Control,42,Male,2,8.3,0,0.0,4,5
+CUST0201,Social Media,31,Female,3,3.2,1,513.97,2,2
+CUST0202,Social Media,37,Male,10,10.4,0,0.0,3,3
+CUST0203,Email,24,Female,4,5.2,0,0.0,5,5
+CUST0204,Control,46,Male,5,7.7,1,474.92,5,5
+CUST0205,Control,45,Male,6,11.0,1,386.91,4,4
+CUST0206,Control,43,Male,9,2.1,0,0.0,3,3
+CUST0207,Control,20,Male,4,1.5,0,0.0,4,5
+CUST0208,Social Media,41,Male,7,4.8,0,0.0,4,2
+CUST0209,Control,38,Female,7,21.1,1,584.23,1,3
+CUST0210,Email,20,Male,7,24.1,0,0.0,5,5
+CUST0211,Social Media,34,Male,2,8.7,0,0.0,3,3
+CUST0212,Email,37,Female,6,12.8,0,0.0,3,2
+CUST0213,Control,39,Male,4,6.6,0,0.0,3,4
+CUST0214,Social Media,36,Female,6,7.3,0,0.0,3,3
+CUST0215,Social Media,37,Female,4,5.9,1,894.69,2,3
+CUST0216,Social Media,47,Female,7,13.8,0,0.0,3,2
+CUST0217,Control,45,Female,6,17.5,0,0.0,4,5
+CUST0218,Control,18,Male,8,7.2,1,519.51,3,2
+CUST0219,Social Media,31,Male,7,7.3,0,0.0,4,4
+CUST0220,Email,33,Male,7,6.1,0,0.0,3,2
+CUST0221,Control,18,Male,8,17.8,1,679.05,4,4
+CUST0222,Email,35,Female,7,11.8,0,0.0,4,4
+CUST0223,Email,45,Female,4,3.2,1,1068.54,4,5
+CUST0224,Social Media,24,Female,9,20.7,0,0.0,4,4
+CUST0225,Control,37,Male,6,1.0,0,0.0,4,5
+CUST0226,Social Media,26,Female,8,16.7,0,0.0,4,3
+CUST0227,Control,28,Male,6,13.1,0,0.0,5,5
+CUST0228,Email,47,Male,11,7.2,0,0.0,4,4
+CUST0229,Email,29,Male,6,7.1,0,0.0,3,4
+CUST0230,Control,38,Male,5,6.3,0,0.0,2,2
+CUST0231,Control,18,Female,2,3.3,0,0.0,3,4
+CUST0232,Email,51,Male,3,19.7,1,660.2,3,4
+CUST0233,Social Media,39,Male,6,6.9,0,0.0,4,5
+CUST0234,Email,32,Male,7,3.3,0,0.0,3,3
+CUST0235,Social Media,39,Male,4,19.0,0,0.0,4,5
+CUST0236,Social Media,21,Male,5,9.4,0,0.0,2,3
+CUST0237,Email,45,Other,6,9.7,0,0.0,2,1
+CUST0238,Social Media,31,Female,7,21.6,0,0.0,3,4
+CUST0239,Control,32,Male,6,10.6,0,0.0,2,3
+CUST0240,Control,30,Male,5,4.4,0,0.0,2,3
+CUST0241,Social Media,29,Female,10,10.6,0,0.0,3,4
+CUST0242,Social Media,40,Male,5,3.6,0,0.0,3,3
+CUST0243,Control,36,Female,2,5.0,0,0.0,3,3
+CUST0244,Email,40,Male,4,8.5,0,0.0,3,3
+CUST0245,Email,34,Female,6,12.6,0,0.0,3,3
+CUST0246,Social Media,39,Female,6,4.6,0,0.0,3,2
+CUST0247,Email,30,Male,6,6.2,0,0.0,4,5
+CUST0248,Email,54,Female,6,6.1,0,0.0,5,5
+CUST0249,Email,20,Female,4,14.0,0,0.0,3,3
+CUST0250,Email,45,Female,7,7.1,0,0.0,3,4
+CUST0251,Email,46,Male,7,20.5,0,0.0,3,4
+CUST0252,Social Media,26,Male,6,5.0,0,0.0,4,5
+CUST0253,Email,54,Male,9,4.7,1,833.51,4,4
+CUST0254,Control,43,Female,10,16.5,1,606.62,4,2
+CUST0255,Control,43,Male,6,10.1,0,0.0,2,2
+CUST0256,Social Media,34,Female,7,28.0,0,0.0,3,3
+CUST0257,Social Media,32,Male,6,16.1,0,0.0,4,5
+CUST0258,Control,32,Female,4,2.6,0,0.0,3,4
+CUST0259,Control,38,Female,6,6.9,0,0.0,2,3
+CUST0260,Email,47,Female,5,8.5,1,737.96,2,4
+CUST0261,Control,36,Male,4,8.1,0,0.0,4,5
+CUST0262,Social Media,26,Male,9,6.3,0,0.0,3,5
+CUST0263,Control,41,Female,4,8.0,0,0.0,2,3
+CUST0264,Control,42,Male,2,8.3,1,593.39,4,5
+CUST0265,Social Media,40,Male,7,4.6,0,0.0,4,4
+CUST0266,Control,41,Female,6,13.7,0,0.0,3,2
+CUST0267,Control,32,Male,5,19.1,1,910.95,2,4
+CUST0268,Control,26,Male,3,11.2,0,0.0,3,3
+CUST0269,Control,26,Female,1,9.2,0,0.0,4,5
+CUST0270,Control,19,Male,5,6.6,0,0.0,2,2
+CUST0271,Control,36,Female,4,8.5,0,0.0,2,3
+CUST0272,Control,33,Male,10,9.0,0,0.0,3,1
+CUST0273,Control,30,Female,5,3.3,0,0.0,3,3
+CUST0274,Email,18,Male,4,13.3,0,0.0,3,3
+CUST0275,Social Media,23,Female,3,5.2,1,570.03,4,5
+CUST0276,Email,44,Male,6,17.0,0,0.0,4,5
+CUST0277,Control,28,Male,3,7.8,0,0.0,3,2
+CUST0278,Email,37,Female,3,13.4,0,0.0,4,5
+CUST0279,Social Media,21,Male,3,11.1,0,0.0,3,4
+CUST0280,Social Media,47,Other,4,2.6,0,0.0,3,5
+CUST0281,Control,33,Male,6,16.1,0,0.0,2,3
+CUST0282,Control,37,Female,5,4.0,0,0.0,2,2
+CUST0283,Control,55,Male,5,5.0,0,0.0,2,1
+CUST0284,Control,48,Female,5,5.3,1,709.35,3,4
+CUST0285,Email,31,Female,4,1.8,0,0.0,3,4
+CUST0286,Email,29,Male,9,8.1,0,0.0,2,2
+CUST0287,Control,31,Male,4,13.9,0,0.0,3,2
+CUST0288,Email,39,Male,13,16.8,0,0.0,2,2
+CUST0289,Email,33,Female,7,6.3,0,0.0,2,3
+CUST0290,Control,30,Male,9,7.0,1,607.46,3,3
+CUST0291,Social Media,47,Male,5,11.6,0,0.0,2,1
+CUST0292,Control,33,Female,5,6.4,0,0.0,4,5
+CUST0293,Social Media,55,Male,6,14.7,0,0.0,3,2
+CUST0294,Control,35,Female,6,6.8,0,0.0,4,5
+CUST0295,Social Media,50,Female,5,3.6,0,0.0,3,3
+CUST0296,Social Media,37,Male,3,8.2,1,752.74,3,3
+CUST0297,Social Media,43,Other,8,2.2,0,0.0,5,5
+CUST0298,Social Media,27,Female,7,8.1,0,0.0,2,2
+CUST0299,Social Media,26,Female,5,9.2,0,0.0,4,5
+CUST0300,Email,38,Female,5,4.1,0,0.0,5,5
+CUST0301,Social Media,43,Male,12,9.0,0,0.0,4,4
+CUST0302,Control,34,Female,9,5.9,0,0.0,3,3
+CUST0303,Email,22,Male,6,3.9,0,0.0,4,5
+CUST0304,Email,22,Other,7,1.9,0,0.0,3,5
+CUST0305,Social Media,21,Female,4,2.4,1,719.04,3,3
+CUST0306,Email,18,Male,9,18.1,0,0.0,3,4
+CUST0307,Email,35,Male,4,5.7,0,0.0,3,3
+CUST0308,Email,44,Male,4,9.0,1,918.0,2,1
+CUST0309,Control,34,Female,6,6.2,0,0.0,4,4
+CUST0310,Control,18,Female,6,18.4,0,0.0,3,3
+CUST0311,Email,32,Female,7,3.9,1,673.53,3,3
+CUST0312,Email,33,Male,12,7.4,1,635.72,2,1
+CUST0313,Control,53,Male,5,5.0,0,0.0,3,3
+CUST0314,Email,21,Female,10,13.3,1,474.21,2,3
+CUST0315,Email,30,Female,6,9.0,0,0.0,2,2
+CUST0316,Control,49,Male,4,7.2,1,733.1,3,2
+CUST0317,Email,38,Female,4,2.7,0,0.0,4,4
+CUST0318,Social Media,39,Female,5,23.4,0,0.0,4,5
+CUST0319,Control,35,Male,5,6.3,0,0.0,4,4
+CUST0320,Social Media,37,Female,6,3.5,1,481.66,3,3
+CUST0321,Social Media,41,Female,1,1.9,1,698.95,3,3
+CUST0322,Email,27,Female,7,2.3,0,0.0,4,5
+CUST0323,Control,42,Female,7,7.2,0,0.0,3,2
+CUST0324,Email,22,Male,4,13.5,0,0.0,4,4
+CUST0325,Social Media,37,Male,4,8.6,0,0.0,4,5
+CUST0326,Email,36,Male,7,2.0,1,666.25,2,1
+CUST0327,Social Media,28,Female,6,7.2,0,0.0,3,4
+CUST0328,Email,34,Male,5,16.0,1,790.31,3,5
+CUST0329,Email,28,Female,6,5.5,1,831.3,2,2
+CUST0330,Control,24,Male,10,8.6,0,0.0,3,3
+CUST0331,Social Media,31,Female,2,5.7,0,0.0,4,5
+CUST0332,Control,24,Male,10,9.9,1,1012.07,2,2
+CUST0333,Social Media,37,Female,3,3.9,1,893.11,4,2
+CUST0334,Social Media,24,Female,7,1.0,0,0.0,3,3
+CUST0335,Control,40,Male,4,2.8,0,0.0,5,5
+CUST0336,Email,23,Female,5,5.1,0,0.0,3,4
+CUST0337,Control,29,Female,3,6.7,0,0.0,3,2
+CUST0338,Social Media,28,Male,9,5.2,0,0.0,2,2
+CUST0339,Control,46,Male,8,5.1,0,0.0,3,4
+CUST0340,Social Media,37,Female,5,13.5,0,0.0,4,4
+CUST0341,Control,32,Male,8,3.2,0,0.0,4,3
+CUST0342,Social Media,38,Male,7,7.2,0,0.0,4,5
+CUST0343,Social Media,18,Male,5,2.1,0,0.0,2,2
+CUST0344,Email,34,Male,6,11.2,1,734.51,4,5
+CUST0345,Social Media,52,Male,5,8.4,0,0.0,2,1
+CUST0346,Social Media,35,Male,5,23.2,0,0.0,2,2
+CUST0347,Social Media,35,Male,4,3.1,1,260.29,3,4
+CUST0348,Control,39,Male,5,18.9,0,0.0,3,3
+CUST0349,Email,42,Female,8,3.4,0,0.0,3,2
+CUST0350,Control,18,Female,3,5.5,1,450.34,4,2
+CUST0351,Email,19,Female,6,2.5,0,0.0,4,5
+CUST0352,Control,36,Male,6,23.0,1,774.18,5,5
+CUST0353,Email,28,Female,5,9.3,1,675.6,2,3
+CUST0354,Email,46,Male,10,9.4,0,0.0,5,5
+CUST0355,Email,31,Male,7,3.7,0,0.0,5,5
+CUST0356,Email,18,Other,2,1.0,0,0.0,3,3
+CUST0357,Social Media,23,Female,5,5.4,0,0.0,2,3
+CUST0358,Social Media,18,Male,6,4.6,0,0.0,2,3
+CUST0359,Email,32,Male,5,1.4,0,0.0,3,3
+CUST0360,Email,32,Female,7,5.6,1,725.38,5,5
+CUST0361,Social Media,30,Male,7,7.2,0,0.0,3,2
+CUST0362,Control,44,Female,5,9.7,0,0.0,3,2
+CUST0363,Control,45,Male,2,1.0,0,0.0,3,4
+CUST0364,Control,32,Male,10,2.6,0,0.0,2,1
+CUST0365,Email,18,Female,11,3.8,0,0.0,4,5
+CUST0366,Email,40,Female,7,13.9,0,0.0,3,4
+CUST0367,Social Media,39,Female,6,13.7,0,0.0,5,5
+CUST0368,Social Media,37,Female,3,9.0,0,0.0,4,5
+CUST0369,Email,43,Male,7,5.5,1,1060.23,4,4
+CUST0370,Social Media,24,Female,8,14.4,0,0.0,3,2
+CUST0371,Social Media,52,Female,5,8.3,0,0.0,2,3
+CUST0372,Control,25,Male,13,13.9,1,645.57,2,1
+CUST0373,Email,41,Male,8,9.2,0,0.0,2,4
+CUST0374,Control,19,Male,8,1.6,0,0.0,4,5
+CUST0375,Control,26,Male,7,1.0,0,0.0,3,3
+CUST0376,Control,48,Female,5,5.1,0,0.0,4,4
+CUST0377,Social Media,32,Male,5,12.1,0,0.0,3,4
+CUST0378,Email,42,Female,7,4.6,0,0.0,3,3
+CUST0379,Email,36,Male,7,16.2,0,0.0,2,3
+CUST0380,Social Media,33,Other,8,11.4,0,0.0,3,4
+CUST0381,Email,46,Male,5,15.3,0,0.0,3,3
+CUST0382,Social Media,32,Male,4,5.3,1,520.43,4,4
+CUST0383,Social Media,18,Male,5,3.3,0,0.0,3,4
+CUST0384,Email,27,Female,8,2.9,0,0.0,4,3
+CUST0385,Email,39,Male,4,9.8,1,831.15,5,5
+CUST0386,Social Media,38,Male,5,1.7,0,0.0,3,4
+CUST0387,Social Media,20,Other,7,1.9,0,0.0,4,4
+CUST0388,Social Media,27,Male,4,4.4,0,0.0,4,5
+CUST0389,Control,29,Female,6,8.1,1,946.49,5,5
+CUST0390,Social Media,31,Male,4,3.8,0,0.0,4,4
+CUST0391,Email,22,Female,3,13.8,0,0.0,4,5
+CUST0392,Control,28,Female,7,15.5,1,726.54,3,2
+CUST0393,Email,27,Female,5,1.0,0,0.0,3,4
+CUST0394,Social Media,41,Male,7,9.4,0,0.0,2,1
+CUST0395,Control,41,Female,8,4.6,0,0.0,4,4
+CUST0396,Email,33,Female,5,12.4,0,0.0,2,2
+CUST0397,Social Media,30,Female,8,9.6,1,836.94,4,4
+CUST0398,Control,35,Male,4,7.8,1,720.89,4,4
+CUST0399,Email,27,Male,7,6.3,0,0.0,4,4
+CUST0400,Email,24,Female,6,1.9,0,0.0,3,4
+CUST0401,Control,26,Female,2,25.2,0,0.0,2,2
+CUST0402,Social Media,28,Male,6,2.6,0,0.0,4,5
+CUST0403,Social Media,24,Female,5,19.1,1,552.36,3,3
+CUST0404,Control,35,Male,7,10.8,0,0.0,2,2
+CUST0405,Social Media,41,Female,7,4.8,0,0.0,5,5
+CUST0406,Social Media,20,Male,8,4.3,1,822.64,2,2
+CUST0407,Control,34,Female,8,1.8,1,443.4,2,2
+CUST0408,Social Media,32,Male,3,7.1,0,0.0,3,4
+CUST0409,Control,37,Female,7,1.7,0,0.0,4,4
+CUST0410,Social Media,34,Male,3,14.3,0,0.0,1,2
+CUST0411,Email,21,Other,11,8.3,0,0.0,4,3
+CUST0412,Email,23,Male,5,6.8,0,0.0,2,3
+CUST0413,Control,34,Female,2,7.4,1,935.31,3,3
+CUST0414,Social Media,43,Female,8,8.6,0,0.0,3,2
+CUST0415,Control,18,Male,6,5.4,0,0.0,5,5
+CUST0416,Control,37,Male,6,6.0,0,0.0,3,4
+CUST0417,Control,45,Female,2,20.3,0,0.0,3,4
+CUST0418,Social Media,33,Female,7,13.4,0,0.0,3,4
+CUST0419,Control,39,Female,6,10.5,0,0.0,3,3
+CUST0420,Social Media,28,Male,3,4.8,1,366.88,3,3
+CUST0421,Email,33,Male,2,1.2,0,0.0,4,5
+CUST0422,Control,19,Male,5,9.7,0,0.0,3,4
+CUST0423,Control,18,Male,3,7.4,0,0.0,2,2
+CUST0424,Control,42,Female,3,5.9,0,0.0,3,5
+CUST0425,Email,25,Female,6,6.6,1,388.8,4,4
+CUST0426,Social Media,30,Female,6,2.7,0,0.0,3,2
+CUST0427,Control,22,Male,5,3.4,0,0.0,4,3
+CUST0428,Social Media,21,Female,9,13.4,0,0.0,3,2
+CUST0429,Control,32,Female,7,1.0,0,0.0,3,3
+CUST0430,Social Media,27,Female,2,12.2,0,0.0,4,4
+CUST0431,Social Media,37,Female,4,16.7,1,580.93,2,3
+CUST0432,Social Media,38,Male,3,9.6,0,0.0,3,3
+CUST0433,Social Media,37,Female,1,9.3,0,0.0,4,5
+CUST0434,Social Media,36,Female,6,3.4,0,0.0,5,5
+CUST0435,Control,48,Male,5,3.8,0,0.0,5,5
+CUST0436,Control,24,Female,4,5.1,0,0.0,3,3
+CUST0437,Control,34,Female,11,2.2,1,818.34,4,5
+CUST0438,Email,44,Female,4,3.6,0,0.0,4,3
+CUST0439,Social Media,45,Male,1,7.4,1,487.85,4,4
+CUST0440,Email,21,Female,10,4.9,0,0.0,3,3
+CUST0441,Social Media,31,Male,9,7.8,0,0.0,4,5
+CUST0442,Control,46,Male,3,13.4,1,1029.5,4,4
+CUST0443,Social Media,39,Male,8,7.8,0,0.0,4,4
+CUST0444,Control,36,Female,5,9.3,0,0.0,2,2
+CUST0445,Control,32,Male,4,1.7,1,636.86,3,4
+CUST0446,Social Media,31,Female,7,13.2,1,644.36,3,3
+CUST0447,Social Media,37,Female,4,1.6,0,0.0,2,4
+CUST0448,Email,32,Male,5,4.6,0,0.0,2,3
+CUST0449,Control,34,Female,5,2.8,0,0.0,3,3
+CUST0450,Email,35,Female,5,1.2,1,860.7,3,3
+CUST0451,Control,28,Female,5,7.5,0,0.0,3,3
+CUST0452,Social Media,39,Female,7,9.9,0,0.0,4,4
+CUST0453,Social Media,60,Female,7,16.9,0,0.0,3,3
+CUST0454,Control,18,Male,6,8.3,0,0.0,3,3
+CUST0455,Control,37,Male,8,3.6,0,0.0,2,2
+CUST0456,Control,27,Female,5,4.8,0,0.0,4,4
+CUST0457,Social Media,39,Male,5,1.4,0,0.0,3,4
+CUST0458,Email,34,Female,3,5.2,0,0.0,3,3
+CUST0459,Social Media,41,Female,4,6.7,0,0.0,3,4
+CUST0460,Email,45,Female,3,9.6,0,0.0,3,4
+CUST0461,Email,36,Female,5,11.3,0,0.0,3,5
+CUST0462,Control,44,Female,7,9.4,0,0.0,3,3
+CUST0463,Social Media,18,Female,12,3.3,0,0.0,3,4
+CUST0464,Control,48,Female,5,2.5,0,0.0,4,4
+CUST0465,Email,37,Male,8,10.8,0,0.0,4,5
+CUST0466,Social Media,44,Female,8,1.1,0,0.0,5,5
+CUST0467,Email,23,Female,6,22.0,0,0.0,4,5
+CUST0468,Social Media,27,Female,8,3.8,0,0.0,5,5
+CUST0469,Control,35,Male,8,14.4,0,0.0,4,4
+CUST0470,Email,34,Female,11,4.4,0,0.0,4,4
+CUST0471,Email,37,Male,8,10.0,0,0.0,3,3
+CUST0472,Email,44,Female,5,2.6,0,0.0,4,4
+CUST0473,Control,18,Female,7,7.0,0,0.0,3,4
+CUST0474,Control,43,Male,6,1.5,0,0.0,2,2
+CUST0475,Control,34,Female,7,8.6,1,657.63,5,4
+CUST0476,Control,32,Female,5,2.6,0,0.0,2,3
+CUST0477,Email,21,Female,6,2.9,0,0.0,4,4
+CUST0478,Email,39,Other,4,5.0,0,0.0,2,3
+CUST0479,Email,18,Male,7,5.8,0,0.0,4,5
+CUST0480,Email,40,Male,3,9.6,1,641.54,4,5
+CUST0481,Email,21,Other,6,9.0,0,0.0,4,5
+CUST0482,Control,34,Female,6,7.5,0,0.0,4,3
+CUST0483,Email,33,Other,2,12.2,1,463.15,3,4
+CUST0484,Control,45,Female,5,8.8,0,0.0,5,5
+CUST0485,Control,32,Male,6,9.3,0,0.0,4,4
+CUST0486,Email,28,Female,8,2.9,0,0.0,2,2
+CUST0487,Email,29,Female,8,12.8,1,924.3,3,3
+CUST0488,Control,45,Male,10,11.8,0,0.0,3,3
+CUST0489,Email,39,Female,11,7.8,0,0.0,3,2
+CUST0490,Email,31,Other,4,11.5,0,0.0,2,3
+CUST0491,Social Media,32,Female,10,6.6,0,0.0,4,3
+CUST0492,Email,20,Male,7,17.5,0,0.0,2,3
+CUST0493,Email,37,Male,9,7.3,0,0.0,1,2
+CUST0494,Control,18,Female,3,6.5,0,0.0,3,4
+CUST0495,Social Media,41,Male,6,8.9,0,0.0,3,4
+CUST0496,Email,35,Male,6,19.7,0,0.0,2,2
+CUST0497,Email,55,Male,4,4.5,0,0.0,1,1
+CUST0498,Email,24,Female,4,8.5,1,761.36,2,3
+CUST0499,Email,33,Male,6,4.7,1,587.07,3,3
+CUST0500,Email,50,Male,4,6.5,1,669.22,3,4
+CUST0501,Social Media,45,Female,9,3.5,0,0.0,4,4
+CUST0502,Social Media,28,Female,7,9.1,0,0.0,4,5
+CUST0503,Social Media,36,Female,5,6.9,0,0.0,4,5
+CUST0504,Email,34,Male,4,11.4,1,753.1,4,4
+CUST0505,Email,37,Female,11,13.4,0,0.0,4,5
+CUST0506,Social Media,28,Male,10,14.7,0,0.0,2,2
+CUST0507,Control,33,Other,3,4.9,0,0.0,4,4
+CUST0508,Social Media,20,Female,10,8.9,0,0.0,4,3
+CUST0509,Email,35,Female,4,15.3,1,593.06,3,5
+CUST0510,Control,38,Male,3,3.5,1,584.57,2,1
+CUST0511,Control,32,Female,5,7.4,0,0.0,4,3
+CUST0512,Social Media,19,Male,3,3.7,0,0.0,2,2
+CUST0513,Control,43,Male,5,19.6,1,778.95,2,3
+CUST0514,Control,37,Male,6,15.2,0,0.0,3,4
+CUST0515,Email,27,Female,2,9.9,0,0.0,4,4
+CUST0516,Control,31,Male,7,9.8,0,0.0,3,4
+CUST0517,Control,20,Male,8,4.0,0,0.0,4,4
+CUST0518,Social Media,25,Female,3,16.3,0,0.0,2,3
+CUST0519,Control,29,Male,4,5.6,0,0.0,2,3
+CUST0520,Social Media,45,Male,4,4.3,1,738.05,4,4
+CUST0521,Social Media,28,Male,10,13.9,1,498.89,2,2
+CUST0522,Email,40,Female,8,5.2,0,0.0,3,4
+CUST0523,Control,29,Female,7,4.4,0,0.0,2,3
+CUST0524,Email,36,Female,4,11.8,0,0.0,3,3
+CUST0525,Control,33,Female,10,2.7,0,0.0,5,5
+CUST0526,Email,42,Female,6,10.0,0,0.0,2,2
+CUST0527,Social Media,29,Other,5,7.5,1,539.13,4,4
+CUST0528,Social Media,20,Female,6,11.2,0,0.0,3,4
+CUST0529,Social Media,22,Male,5,9.3,0,0.0,2,2
+CUST0530,Control,29,Female,10,27.3,1,683.1,2,3
+CUST0531,Social Media,23,Female,5,7.9,1,564.42,2,2
+CUST0532,Social Media,38,Female,8,5.2,0,0.0,3,3
+CUST0533,Email,30,Female,5,6.9,0,0.0,4,5
+CUST0534,Email,55,Male,4,9.2,0,0.0,5,5
+CUST0535,Control,18,Male,3,18.9,0,0.0,2,3
+CUST0536,Control,36,Male,4,10.4,0,0.0,3,4
+CUST0537,Email,24,Female,6,3.8,0,0.0,2,1
+CUST0538,Control,30,Male,4,35.0,0,0.0,2,1
+CUST0539,Control,35,Female,10,13.1,0,0.0,3,4
+CUST0540,Social Media,18,Male,8,3.7,0,0.0,3,4
+CUST0541,Social Media,36,Male,5,2.9,0,0.0,2,2
+CUST0542,Email,51,Female,9,2.5,0,0.0,3,4
+CUST0543,Social Media,30,Female,7,6.7,0,0.0,2,4
+CUST0544,Social Media,36,Female,10,6.9,0,0.0,3,4
+CUST0545,Control,43,Female,4,4.2,1,755.71,4,5
+CUST0546,Email,33,Male,5,2.2,0,0.0,4,4
+CUST0547,Email,29,Male,6,3.0,0,0.0,3,3
+CUST0548,Control,18,Male,4,10.5,0,0.0,3,1
+CUST0549,Social Media,40,Female,7,5.6,1,1070.27,3,4
+CUST0550,Email,33,Male,8,3.3,0,0.0,4,5
+CUST0551,Email,25,Female,4,7.4,0,0.0,4,5
+CUST0552,Control,35,Male,7,8.4,1,953.09,3,4
+CUST0553,Control,29,Female,4,9.0,0,0.0,3,3
+CUST0554,Social Media,29,Female,4,7.3,0,0.0,2,2
+CUST0555,Control,39,Male,5,6.5,0,0.0,3,2
+CUST0556,Control,22,Female,7,14.6,1,728.53,4,4
+CUST0557,Control,43,Female,3,3.1,0,0.0,4,3
+CUST0558,Email,21,Male,3,5.9,0,0.0,3,5
+CUST0559,Email,28,Female,10,1.3,1,855.46,5,4
+CUST0560,Email,51,Male,3,5.4,0,0.0,4,4
+CUST0561,Control,44,Male,4,7.8,0,0.0,3,2
+CUST0562,Control,35,Male,10,11.7,0,0.0,2,2
+CUST0563,Social Media,26,Male,11,1.4,0,0.0,4,4
+CUST0564,Email,29,Male,7,7.6,0,0.0,4,4
+CUST0565,Email,35,Male,8,20.6,0,0.0,5,5
+CUST0566,Social Media,34,Male,6,9.5,1,471.55,5,5
+CUST0567,Social Media,33,Male,11,2.6,0,0.0,2,2
+CUST0568,Control,34,Female,7,5.4,0,0.0,2,2
+CUST0569,Email,32,Female,6,9.7,0,0.0,1,3
+CUST0570,Email,21,Male,4,4.4,0,0.0,4,4
+CUST0571,Email,29,Female,8,8.2,0,0.0,4,5
+CUST0572,Social Media,42,Female,9,7.9,0,0.0,3,3
+CUST0573,Email,22,Female,4,6.6,0,0.0,2,2
+CUST0574,Social Media,32,Male,3,2.4,0,0.0,3,3
+CUST0575,Social Media,27,Female,14,4.0,0,0.0,3,5
+CUST0576,Email,35,Male,3,21.9,1,662.18,4,4
+CUST0577,Social Media,31,Male,4,5.1,0,0.0,3,3
+CUST0578,Email,47,Male,5,5.6,0,0.0,4,4
+CUST0579,Social Media,39,Female,5,5.6,0,0.0,3,1
+CUST0580,Email,22,Male,5,11.5,0,0.0,4,4
+CUST0581,Email,40,Male,3,5.8,0,0.0,4,5
+CUST0582,Email,27,Female,3,6.7,0,0.0,2,3
+CUST0583,Control,29,Male,6,7.6,0,0.0,4,5
+CUST0584,Email,37,Female,4,12.3,1,616.93,4,4
+CUST0585,Social Media,30,Other,8,6.7,0,0.0,4,2
+CUST0586,Email,42,Female,5,7.2,0,0.0,3,3
+CUST0587,Control,27,Male,4,4.5,0,0.0,5,5
+CUST0588,Email,28,Male,2,8.4,0,0.0,2,3
+CUST0589,Control,28,Female,6,10.0,0,0.0,4,4
+CUST0590,Control,29,Male,7,10.4,1,849.17,3,3
+CUST0591,Social Media,44,Female,8,19.9,0,0.0,4,5
+CUST0592,Email,40,Male,6,3.8,1,528.7,3,3
+CUST0593,Control,49,Male,8,6.9,0,0.0,2,2
+CUST0594,Email,54,Female,2,5.8,1,525.71,3,3
+CUST0595,Control,25,Female,4,17.7,1,909.12,4,4
+CUST0596,Control,35,Male,4,10.7,1,606.38,3,2
+CUST0597,Social Media,23,Female,9,1.8,0,0.0,3,3
+CUST0598,Email,27,Male,5,4.3,1,772.99,3,5
+CUST0599,Social Media,28,Male,9,5.3,0,0.0,4,5
+CUST0600,Email,24,Male,6,2.1,0,0.0,5,5
+CUST0601,Email,25,Female,6,7.3,0,0.0,1,1
+CUST0602,Social Media,33,Male,7,4.7,0,0.0,5,4
+CUST0603,Social Media,23,Male,10,20.4,0,0.0,3,4
+CUST0604,Social Media,42,Female,8,8.3,0,0.0,4,5
+CUST0605,Social Media,26,Female,3,5.2,0,0.0,3,3
+CUST0606,Social Media,59,Female,5,3.2,0,0.0,3,3
+CUST0607,Social Media,30,Female,6,6.5,0,0.0,3,2
+CUST0608,Control,35,Male,4,16.8,1,531.01,2,3
+CUST0609,Social Media,22,Female,5,5.9,0,0.0,2,3
+CUST0610,Email,49,Male,7,6.6,1,921.33,4,4
+CUST0611,Email,44,Female,5,13.4,1,968.77,2,2
+CUST0612,Email,37,Female,5,8.2,0,0.0,4,5
+CUST0613,Social Media,22,Female,8,11.4,0,0.0,3,3
+CUST0614,Social Media,36,Male,5,8.7,0,0.0,2,4
+CUST0615,Control,24,Male,5,8.4,0,0.0,5,5
+CUST0616,Social Media,47,Female,3,1.7,0,0.0,2,2
+CUST0617,Social Media,41,Male,5,2.9,0,0.0,2,2
+CUST0618,Email,35,Female,9,7.6,0,0.0,3,3
+CUST0619,Control,18,Female,11,3.5,0,0.0,3,4
+CUST0620,Control,25,Female,6,6.5,0,0.0,3,4
+CUST0621,Social Media,40,Other,5,2.7,0,0.0,3,4
+CUST0622,Email,45,Male,5,13.5,0,0.0,3,3
+CUST0623,Social Media,44,Male,4,3.8,1,769.5,3,3
+CUST0624,Email,20,Female,8,3.2,0,0.0,3,3
+CUST0625,Social Media,37,Female,6,2.2,0,0.0,4,4
+CUST0626,Email,43,Male,6,10.4,0,0.0,3,4
+CUST0627,Social Media,19,Female,8,6.5,0,0.0,3,4
+CUST0628,Control,34,Male,6,13.2,0,0.0,5,5
+CUST0629,Email,36,Male,4,4.6,0,0.0,3,3
+CUST0630,Social Media,31,Female,7,2.8,0,0.0,4,5
+CUST0631,Social Media,18,Male,3,6.3,1,603.09,4,4
+CUST0632,Social Media,31,Other,8,14.8,0,0.0,4,4
+CUST0633,Control,31,Female,8,1.7,0,0.0,4,5
+CUST0634,Email,33,Male,6,8.1,1,700.51,3,3
+CUST0635,Control,29,Male,6,8.6,0,0.0,3,3
+CUST0636,Control,30,Female,2,16.4,1,876.39,3,3
+CUST0637,Social Media,34,Male,7,3.6,0,0.0,1,1
+CUST0638,Social Media,38,Female,7,1.6,0,0.0,4,4
+CUST0639,Social Media,31,Male,10,4.9,0,0.0,3,3
+CUST0640,Social Media,30,Male,5,11.3,0,0.0,4,4
+CUST0641,Social Media,35,Male,4,6.8,0,0.0,3,3
+CUST0642,Social Media,18,Male,4,9.2,1,705.03,4,4
+CUST0643,Control,38,Male,3,3.0,0,0.0,2,1
+CUST0644,Control,34,Female,9,5.6,1,783.57,2,2
+CUST0645,Email,34,Female,5,7.0,0,0.0,1,1
+CUST0646,Social Media,43,Female,7,1.9,0,0.0,3,3
+CUST0647,Control,18,Male,7,6.9,1,540.74,3,5
+CUST0648,Email,18,Female,3,5.3,1,779.98,2,2
+CUST0649,Social Media,36,Female,6,30.6,0,0.0,4,5
+CUST0650,Control,34,Male,6,6.6,0,0.0,3,4
+CUST0651,Email,36,Female,4,16.9,0,0.0,2,2
+CUST0652,Social Media,30,Female,6,9.1,0,0.0,5,5
+CUST0653,Social Media,40,Female,7,6.1,1,737.33,3,3
+CUST0654,Control,42,Female,8,15.4,0,0.0,2,2
+CUST0655,Social Media,38,Male,6,2.6,0,0.0,3,3
+CUST0656,Email,32,Female,5,4.8,0,0.0,3,3
+CUST0657,Social Media,18,Female,7,11.7,0,0.0,3,3
+CUST0658,Control,41,Male,9,1.0,0,0.0,4,3
+CUST0659,Email,45,Male,2,6.5,0,0.0,3,4
+CUST0660,Email,40,Male,5,6.4,0,0.0,5,5
+CUST0661,Control,26,Male,6,7.9,1,209.74,3,3
+CUST0662,Social Media,40,Male,9,5.7,1,727.0,4,5
+CUST0663,Control,42,Female,6,11.4,0,0.0,4,5
+CUST0664,Control,48,Male,5,3.7,0,0.0,4,3
+CUST0665,Email,26,Male,4,12.4,1,479.3,4,5
+CUST0666,Social Media,32,Female,6,2.9,1,1006.56,3,3
+CUST0667,Social Media,41,Female,3,8.3,1,769.8,3,5
+CUST0668,Social Media,35,Female,5,14.3,0,0.0,1,1
+CUST0669,Control,24,Male,7,3.5,0,0.0,3,4
+CUST0670,Email,38,Male,4,4.2,1,994.34,4,4
+CUST0671,Control,39,Male,2,12.7,0,0.0,4,5
+CUST0672,Email,35,Female,7,7.5,0,0.0,3,3
+CUST0673,Social Media,36,Female,7,1.6,0,0.0,5,5
+CUST0674,Social Media,32,Female,8,7.7,0,0.0,3,4
+CUST0675,Email,47,Male,2,10.2,0,0.0,3,4
+CUST0676,Email,26,Male,4,13.0,0,0.0,3,4
+CUST0677,Social Media,29,Male,6,8.2,0,0.0,2,2
+CUST0678,Email,34,Male,6,9.3,0,0.0,4,2
+CUST0679,Control,42,Male,13,17.9,0,0.0,3,4
+CUST0680,Email,21,Male,9,11.9,1,921.1,4,4
+CUST0681,Control,22,Female,8,5.5,0,0.0,3,4
+CUST0682,Control,18,Female,4,6.0,0,0.0,3,3
+CUST0683,Control,34,Female,4,13.9,0,0.0,1,2
+CUST0684,Email,24,Female,7,8.1,0,0.0,4,5
+CUST0685,Email,31,Female,5,7.3,0,0.0,3,2
+CUST0686,Email,40,Female,6,5.4,0,0.0,2,3
+CUST0687,Email,28,Male,7,13.6,1,536.38,3,3
+CUST0688,Social Media,36,Female,7,3.7,0,0.0,3,4
+CUST0689,Social Media,31,Male,9,4.8,1,564.06,5,5
+CUST0690,Email,40,Male,7,13.5,0,0.0,2,3
+CUST0691,Control,38,Male,8,13.4,0,0.0,3,3
+CUST0692,Social Media,28,Male,6,24.7,0,0.0,2,2
+CUST0693,Control,32,Female,5,6.5,0,0.0,3,3
+CUST0694,Control,43,Male,5,5.5,1,514.19,3,2
+CUST0695,Social Media,38,Female,7,5.9,0,0.0,3,3
+CUST0696,Email,21,Male,7,1.8,0,0.0,3,2
+CUST0697,Social Media,40,Female,6,1.0,0,0.0,3,2
+CUST0698,Email,24,Female,5,8.1,1,746.46,3,3
+CUST0699,Email,47,Male,4,5.2,0,0.0,4,5
+CUST0700,Control,43,Male,7,3.9,0,0.0,3,3
+CUST0701,Control,37,Female,5,7.2,0,0.0,3,3
+CUST0702,Control,35,Male,10,8.3,0,0.0,4,3
+CUST0703,Control,32,Female,6,6.2,0,0.0,3,3
+CUST0704,Social Media,40,Male,6,6.3,0,0.0,4,4
+CUST0705,Control,31,Female,2,5.1,1,477.77,3,3
+CUST0706,Email,36,Female,6,10.7,0,0.0,4,3
+CUST0707,Social Media,42,Female,5,4.6,0,0.0,3,4
+CUST0708,Social Media,29,Female,7,3.3,0,0.0,2,2
+CUST0709,Email,28,Female,9,5.0,1,554.89,2,3
+CUST0710,Email,23,Female,7,7.9,0,0.0,2,3
+CUST0711,Social Media,24,Female,5,11.1,1,967.34,5,5
+CUST0712,Social Media,18,Female,5,20.1,0,0.0,1,2
+CUST0713,Social Media,41,Male,6,7.2,0,0.0,4,3
+CUST0714,Social Media,50,Female,8,17.0,1,900.74,2,2
+CUST0715,Social Media,47,Male,6,4.3,0,0.0,4,5
+CUST0716,Control,19,Male,7,3.8,0,0.0,1,1
+CUST0717,Email,41,Female,6,9.1,0,0.0,3,5
+CUST0718,Control,47,Male,5,10.0,0,0.0,5,5
+CUST0719,Email,30,Female,7,7.7,0,0.0,4,5
+CUST0720,Social Media,35,Female,7,31.0,1,530.12,3,3
+CUST0721,Email,18,Male,5,4.5,1,495.68,1,1
+CUST0722,Email,36,Male,4,15.1,0,0.0,2,2
+CUST0723,Control,24,Male,3,3.8,1,344.25,4,4
+CUST0724,Social Media,36,Female,8,10.5,0,0.0,3,3
+CUST0725,Control,20,Male,4,7.0,1,711.88,3,2
+CUST0726,Control,39,Female,7,8.1,0,0.0,3,3
+CUST0727,Control,43,Female,5,9.1,1,607.97,2,3
+CUST0728,Control,27,Female,9,7.2,1,393.86,4,5
+CUST0729,Email,24,Other,9,6.3,1,842.56,3,3
+CUST0730,Email,18,Female,6,1.5,0,0.0,3,4
+CUST0731,Control,32,Male,6,12.2,0,0.0,3,3
+CUST0732,Control,29,Male,1,2.5,0,0.0,2,2
+CUST0733,Control,20,Male,5,5.2,0,0.0,3,3
+CUST0734,Email,38,Male,5,8.5,0,0.0,4,4
+CUST0735,Control,30,Male,7,2.9,1,801.89,4,5
+CUST0736,Social Media,24,Female,8,6.3,0,0.0,3,3
+CUST0737,Control,29,Female,5,11.4,1,518.28,4,4
+CUST0738,Control,44,Male,6,5.1,0,0.0,3,2
+CUST0739,Email,39,Female,5,6.3,1,939.01,3,4
+CUST0740,Email,33,Female,4,3.4,1,916.35,3,4
+CUST0741,Control,40,Female,15,5.6,0,0.0,4,4
+CUST0742,Control,24,Female,6,2.6,0,0.0,3,2
+CUST0743,Social Media,34,Female,4,7.8,0,0.0,3,4
+CUST0744,Control,35,Female,5,2.1,1,560.77,2,3
+CUST0745,Email,30,Male,11,4.4,1,977.84,4,3
+CUST0746,Email,38,Female,6,7.1,0,0.0,3,4
+CUST0747,Control,27,Other,6,6.0,0,0.0,3,3
+CUST0748,Email,39,Male,8,8.8,0,0.0,5,5
+CUST0749,Social Media,39,Female,6,6.4,0,0.0,4,5
+CUST0750,Social Media,18,Male,10,1.5,1,662.87,5,5
+CUST0751,Control,45,Male,11,2.9,0,0.0,3,4
+CUST0752,Control,18,Male,6,6.8,1,826.03,4,4
+CUST0753,Control,28,Female,5,13.3,1,592.48,3,2
+CUST0754,Email,43,Female,4,11.8,1,1171.04,4,3
+CUST0755,Social Media,31,Female,6,30.5,0,0.0,5,5
+CUST0756,Control,21,Male,6,4.7,0,0.0,3,4
+CUST0757,Control,24,Other,3,11.1,1,884.36,3,2
+CUST0758,Social Media,43,Male,5,10.6,0,0.0,2,2
+CUST0759,Control,18,Male,6,17.4,1,544.94,4,4
+CUST0760,Email,44,Other,4,14.6,0,0.0,3,3
+CUST0761,Social Media,34,Male,8,8.2,0,0.0,4,5
+CUST0762,Control,23,Female,9,10.0,1,619.88,2,2
+CUST0763,Control,29,Male,11,8.8,1,623.93,4,4
+CUST0764,Control,25,Female,5,6.7,0,0.0,3,5
+CUST0765,Social Media,42,Female,5,9.5,0,0.0,4,3
+CUST0766,Control,41,Male,5,7.7,0,0.0,3,3
+CUST0767,Control,19,Male,9,7.5,0,0.0,3,2
+CUST0768,Control,30,Female,5,17.9,0,0.0,3,3
+CUST0769,Control,26,Male,9,8.3,0,0.0,2,2
+CUST0770,Email,46,Female,7,7.2,0,0.0,4,5
+CUST0771,Control,22,Female,4,6.1,0,0.0,2,2
+CUST0772,Email,48,Female,9,5.8,0,0.0,3,3
+CUST0773,Email,34,Male,7,2.8,0,0.0,4,4
+CUST0774,Social Media,24,Male,3,6.7,0,0.0,5,4
+CUST0775,Control,28,Female,6,13.7,0,0.0,3,4
+CUST0776,Social Media,27,Female,7,4.6,0,0.0,3,3
+CUST0777,Email,23,Female,9,22.7,0,0.0,3,4
+CUST0778,Control,35,Female,6,1.0,0,0.0,1,1
+CUST0779,Social Media,23,Male,7,9.3,0,0.0,2,2
+CUST0780,Social Media,18,Male,6,7.9,1,726.3,3,4
+CUST0781,Control,31,Male,4,17.7,1,589.97,3,4
+CUST0782,Social Media,18,Female,4,4.3,1,629.3,2,3
+CUST0783,Email,27,Male,9,2.5,1,679.24,4,5
+CUST0784,Email,26,Female,8,5.9,0,0.0,3,4
+CUST0785,Social Media,26,Female,6,5.3,1,654.29,3,3
+CUST0786,Email,52,Male,8,1.8,0,0.0,3,3
+CUST0787,Social Media,35,Male,4,7.3,1,810.33,3,4
+CUST0788,Control,36,Male,7,5.0,1,777.33,4,5
+CUST0789,Social Media,18,Male,5,15.8,1,1003.93,3,3
+CUST0790,Email,28,Male,7,7.4,0,0.0,4,4
+CUST0791,Control,36,Male,7,3.9,0,0.0,2,2
+CUST0792,Email,25,Female,7,6.8,0,0.0,3,3
+CUST0793,Control,42,Female,3,7.8,0,0.0,4,5
+CUST0794,Control,23,Female,8,9.9,1,343.25,4,5
+CUST0795,Control,31,Female,4,7.0,0,0.0,4,3
+CUST0796,Email,29,Female,6,22.0,0,0.0,3,3
+CUST0797,Control,35,Female,7,2.7,0,0.0,3,2
+CUST0798,Control,28,Male,2,4.9,0,0.0,3,3
+CUST0799,Social Media,32,Male,8,3.9,0,0.0,2,2
+CUST0800,Social Media,32,Male,6,5.4,0,0.0,2,3
+CUST0801,Social Media,27,Female,6,8.4,0,0.0,3,2
+CUST0802,Control,38,Male,7,8.0,0,0.0,3,5
+CUST0803,Social Media,36,Female,6,9.7,0,0.0,4,4
+CUST0804,Email,33,Female,6,7.3,1,855.78,4,3
+CUST0805,Control,30,Female,6,7.6,0,0.0,3,4
+CUST0806,Control,41,Female,11,7.4,0,0.0,4,5
+CUST0807,Social Media,32,Female,8,5.1,0,0.0,3,3
+CUST0808,Control,31,Male,6,4.8,0,0.0,4,4
+CUST0809,Email,35,Male,8,3.8,0,0.0,4,5
+CUST0810,Social Media,49,Male,3,10.1,0,0.0,4,4
+CUST0811,Control,22,Female,6,1.1,1,690.52,3,2
+CUST0812,Control,41,Male,7,7.5,0,0.0,4,2
+CUST0813,Social Media,18,Male,4,11.3,1,689.16,2,2
+CUST0814,Email,36,Female,5,13.1,0,0.0,4,5
+CUST0815,Control,48,Male,7,1.0,0,0.0,3,4
+CUST0816,Social Media,38,Male,10,5.2,1,385.88,3,3
+CUST0817,Social Media,36,Female,4,4.0,0,0.0,1,1
+CUST0818,Email,29,Female,5,4.9,1,759.45,3,4
+CUST0819,Email,34,Male,3,14.8,1,500.71,4,5
+CUST0820,Control,32,Female,9,4.0,0,0.0,3,4
+CUST0821,Control,27,Female,9,11.2,1,622.9,4,2
+CUST0822,Email,31,Female,3,7.6,1,877.08,3,5
+CUST0823,Control,36,Male,8,4.7,0,0.0,4,5
+CUST0824,Email,27,Female,8,4.4,0,0.0,3,3
+CUST0825,Social Media,27,Female,6,8.1,0,0.0,2,2
+CUST0826,Control,22,Female,7,6.5,1,443.25,3,4
+CUST0827,Email,38,Male,5,1.7,1,611.14,5,5
+CUST0828,Control,39,Male,4,3.3,1,952.23,4,4
+CUST0829,Social Media,36,Male,2,8.2,0,0.0,3,4
+CUST0830,Control,43,Female,12,2.6,0,0.0,5,5
+CUST0831,Email,35,Female,6,12.2,0,0.0,4,5
+CUST0832,Email,38,Male,7,2.0,0,0.0,4,5
+CUST0833,Email,37,Female,9,5.7,0,0.0,3,4
+CUST0834,Social Media,33,Male,5,10.3,0,0.0,4,4
+CUST0835,Social Media,29,Male,2,3.1,0,0.0,4,5
+CUST0836,Email,54,Female,6,2.5,0,0.0,1,1
+CUST0837,Social Media,30,Other,5,9.1,0,0.0,4,4
+CUST0838,Social Media,28,Male,7,11.5,0,0.0,3,3
+CUST0839,Email,38,Female,7,6.0,0,0.0,3,3
+CUST0840,Email,36,Male,5,5.1,0,0.0,3,3
+CUST0841,Control,21,Female,5,2.0,1,872.28,2,3
+CUST0842,Social Media,44,Male,7,7.1,0,0.0,2,2
+CUST0843,Email,33,Female,7,1.4,0,0.0,4,3
+CUST0844,Email,24,Female,5,14.9,1,767.66,4,4
+CUST0845,Control,45,Male,3,6.2,0,0.0,1,1
+CUST0846,Social Media,40,Female,4,3.4,0,0.0,3,3
+CUST0847,Email,23,Female,6,4.4,0,0.0,4,5
+CUST0848,Social Media,50,Male,6,7.5,0,0.0,3,4
+CUST0849,Control,40,Female,8,4.9,0,0.0,4,4
+CUST0850,Social Media,34,Female,7,6.7,0,0.0,4,3
+CUST0851,Control,48,Female,8,3.0,0,0.0,2,2
+CUST0852,Control,35,Female,6,13.3,0,0.0,3,3
+CUST0853,Social Media,34,Female,3,4.4,0,0.0,3,3
+CUST0854,Social Media,28,Male,4,1.1,0,0.0,2,3
+CUST0855,Control,39,Male,4,5.2,0,0.0,2,2
+CUST0856,Email,38,Female,3,4.0,0,0.0,2,3
+CUST0857,Social Media,34,Male,5,12.7,0,0.0,3,3
+CUST0858,Social Media,27,Male,3,3.4,0,0.0,3,4
+CUST0859,Email,35,Male,4,4.9,0,0.0,4,5
+CUST0860,Email,33,Male,3,7.6,0,0.0,4,4
+CUST0861,Social Media,22,Male,2,9.8,0,0.0,4,5
+CUST0862,Social Media,21,Male,3,15.5,0,0.0,3,3
+CUST0863,Social Media,39,Male,9,3.6,0,0.0,4,3
+CUST0864,Email,18,Male,6,14.5,0,0.0,3,3
+CUST0865,Control,36,Female,6,12.4,0,0.0,3,4
+CUST0866,Social Media,30,Female,9,3.9,0,0.0,5,5
+CUST0867,Social Media,46,Male,6,3.6,1,434.89,1,1
+CUST0868,Social Media,30,Female,4,8.7,0,0.0,2,2
+CUST0869,Control,40,Female,5,6.6,0,0.0,4,3
+CUST0870,Control,30,Female,6,8.7,0,0.0,3,4
+CUST0871,Social Media,35,Female,9,5.3,1,551.52,2,2
+CUST0872,Control,41,Male,6,7.0,0,0.0,2,2
+CUST0873,Social Media,30,Male,11,6.2,1,476.99,2,2
+CUST0874,Email,43,Female,4,8.6,0,0.0,4,5
+CUST0875,Social Media,25,Female,4,3.5,0,0.0,4,5
+CUST0876,Social Media,37,Female,7,7.4,0,0.0,5,4
+CUST0877,Email,42,Female,12,15.4,1,670.69,2,3
+CUST0878,Control,40,Male,7,14.8,1,819.63,2,2
+CUST0879,Email,51,Male,5,8.0,1,481.05,2,2
+CUST0880,Email,27,Male,6,3.4,0,0.0,4,4
+CUST0881,Email,22,Male,9,19.9,1,590.58,4,4
+CUST0882,Email,25,Male,4,8.6,0,0.0,3,2
+CUST0883,Social Media,40,Male,6,18.7,0,0.0,3,4
+CUST0884,Email,38,Male,5,8.9,0,0.0,3,3
+CUST0885,Control,35,Female,5,1.0,1,457.95,2,3
+CUST0886,Email,24,Female,4,19.8,0,0.0,4,5
+CUST0887,Email,41,Male,8,11.4,0,0.0,3,4
+CUST0888,Control,23,Female,3,6.9,0,0.0,2,1
+CUST0889,Control,44,Female,4,1.6,0,0.0,4,3
+CUST0890,Social Media,60,Other,6,12.1,0,0.0,3,4
+CUST0891,Email,37,Male,4,8.8,1,622.94,3,2
+CUST0892,Social Media,39,Female,7,23.2,0,0.0,3,3
+CUST0893,Control,30,Female,7,17.6,0,0.0,4,3
+CUST0894,Control,18,Female,7,18.4,0,0.0,3,3
+CUST0895,Social Media,29,Male,2,7.8,0,0.0,2,3
+CUST0896,Social Media,24,Female,8,7.6,0,0.0,3,4
+CUST0897,Control,21,Male,6,8.9,0,0.0,4,3
+CUST0898,Control,50,Male,4,4.2,0,0.0,4,5
+CUST0899,Control,36,Male,3,7.0,0,0.0,4,5
+CUST0900,Email,37,Male,6,6.1,1,764.89,3,5
+CUST0901,Email,31,Female,7,14.3,0,0.0,4,5
+CUST0902,Control,32,Female,2,16.1,0,0.0,2,1
+CUST0903,Control,43,Male,7,10.5,1,689.5,3,3
+CUST0904,Email,34,Female,8,3.7,0,0.0,3,5
+CUST0905,Social Media,39,Female,3,20.6,1,878.72,5,5
+CUST0906,Email,32,Female,12,12.1,1,637.42,3,4
+CUST0907,Email,31,Female,5,8.5,1,582.61,4,4
+CUST0908,Control,21,Female,10,9.8,0,0.0,2,2
+CUST0909,Control,18,Male,2,2.3,0,0.0,3,1
+CUST0910,Control,32,Male,4,6.1,0,0.0,2,1
+CUST0911,Social Media,35,Male,11,15.0,0,0.0,5,5
+CUST0912,Social Media,22,Male,8,2.2,1,863.56,3,3
+CUST0913,Social Media,34,Female,6,2.2,0,0.0,3,2
+CUST0914,Social Media,34,Male,5,12.2,1,777.97,3,3
+CUST0915,Social Media,18,Male,3,9.4,0,0.0,2,2
+CUST0916,Social Media,26,Female,4,2.2,0,0.0,3,3
+CUST0917,Control,38,Male,7,5.7,0,0.0,4,4
+CUST0918,Control,37,Female,9,8.5,0,0.0,3,4
+CUST0919,Control,24,Female,7,7.8,0,0.0,1,1
+CUST0920,Email,35,Female,6,8.9,1,511.97,3,4
+CUST0921,Control,43,Female,4,5.4,0,0.0,4,3
+CUST0922,Social Media,41,Female,4,8.1,1,841.42,4,5
+CUST0923,Email,33,Male,2,10.4,0,0.0,4,5
+CUST0924,Email,30,Male,7,9.9,1,842.48,2,2
+CUST0925,Control,28,Female,5,5.5,0,0.0,4,4
+CUST0926,Control,38,Male,9,11.1,0,0.0,3,3
+CUST0927,Control,36,Female,8,3.4,1,672.74,5,5
+CUST0928,Social Media,40,Male,10,4.4,0,0.0,3,4
+CUST0929,Email,35,Female,6,12.1,0,0.0,1,1
+CUST0930,Social Media,41,Female,4,10.9,1,398.16,4,5
+CUST0931,Control,35,Male,6,5.9,0,0.0,3,1
+CUST0932,Email,41,Male,5,4.3,1,504.5,3,3
+CUST0933,Email,42,Male,4,4.7,0,0.0,2,3
+CUST0934,Social Media,27,Male,8,10.2,1,979.28,5,4
+CUST0935,Social Media,18,Male,7,9.0,0,0.0,3,2
+CUST0936,Control,48,Female,4,4.1,0,0.0,5,5
+CUST0937,Social Media,36,Female,4,10.9,1,681.48,3,4
+CUST0938,Control,19,Female,7,5.7,0,0.0,2,2
+CUST0939,Social Media,28,Female,8,3.5,0,0.0,4,3
+CUST0940,Control,41,Female,7,5.1,0,0.0,3,2
+CUST0941,Control,31,Male,4,7.4,0,0.0,3,3
+CUST0942,Social Media,29,Female,6,10.6,0,0.0,2,1
+CUST0943,Control,47,Male,8,10.2,0,0.0,3,3
+CUST0944,Email,25,Male,2,6.5,1,797.97,4,4
+CUST0945,Email,27,Male,10,7.9,1,658.97,2,2
+CUST0946,Control,36,Male,8,6.1,0,0.0,3,4
+CUST0947,Social Media,38,Female,6,4.1,0,0.0,3,4
+CUST0948,Social Media,38,Female,4,6.6,0,0.0,3,4
+CUST0949,Social Media,42,Male,6,1.6,0,0.0,5,5
+CUST0950,Email,36,Male,7,16.2,0,0.0,3,3
+CUST0951,Email,38,Female,7,7.8,0,0.0,3,3
+CUST0952,Control,32,Female,8,9.2,1,247.72,5,5
+CUST0953,Control,35,Male,7,4.2,0,0.0,3,4
+CUST0954,Control,35,Male,8,7.8,0,0.0,3,3
+CUST0955,Social Media,36,Female,5,8.6,0,0.0,3,5
+CUST0956,Social Media,41,Female,5,5.9,1,892.49,3,3
+CUST0957,Social Media,39,Male,4,6.1,0,0.0,3,3
+CUST0958,Email,34,Female,5,2.6,0,0.0,4,4
+CUST0959,Email,27,Male,8,19.4,1,1241.28,4,4
+CUST0960,Email,35,Female,7,4.2,0,0.0,4,5
+CUST0961,Email,34,Male,6,4.6,0,0.0,4,4
+CUST0962,Email,36,Female,3,16.9,0,0.0,3,3
+CUST0963,Control,54,Female,4,9.5,0,0.0,4,4
+CUST0964,Control,29,Male,8,10.7,1,321.05,4,4
+CUST0965,Social Media,38,Female,1,2.5,0,0.0,2,2
+CUST0966,Email,44,Male,8,7.7,1,775.74,5,5
+CUST0967,Social Media,35,Female,10,2.5,0,0.0,3,3
+CUST0968,Control,55,Male,7,3.8,1,511.94,3,4
+CUST0969,Email,31,Male,9,21.1,1,736.75,2,3
+CUST0970,Control,37,Male,5,3.3,0,0.0,2,2
+CUST0971,Control,27,Female,9,10.4,0,0.0,4,4
+CUST0972,Control,31,Male,11,3.5,0,0.0,5,5
+CUST0973,Control,36,Male,7,3.8,1,457.61,3,3
+CUST0974,Social Media,42,Male,8,28.8,0,0.0,4,4
+CUST0975,Control,37,Female,6,6.5,0,0.0,3,2
+CUST0976,Email,45,Female,6,2.3,1,616.4,4,4
+CUST0977,Email,33,Female,8,10.7,1,826.5,5,5
+CUST0978,Email,31,Male,8,14.4,0,0.0,5,5
+CUST0979,Email,58,Other,6,11.3,1,828.7,3,3
+CUST0980,Control,38,Female,7,6.1,0,0.0,4,4
+CUST0981,Social Media,28,Male,5,6.3,0,0.0,4,5
+CUST0982,Social Media,28,Male,5,4.8,1,491.83,3,3
+CUST0983,Social Media,26,Female,5,3.0,0,0.0,2,2
+CUST0984,Email,42,Female,2,8.5,0,0.0,2,2
+CUST0985,Control,31,Male,11,5.9,0,0.0,4,4
+CUST0986,Social Media,35,Male,10,2.5,0,0.0,4,4
+CUST0987,Email,33,Female,3,6.6,0,0.0,3,3
+CUST0988,Control,41,Male,8,4.2,0,0.0,3,4
+CUST0989,Email,26,Male,4,8.2,0,0.0,4,4
+CUST0990,Social Media,24,Male,8,7.7,0,0.0,2,4
+CUST0991,Email,36,Male,5,5.4,1,1030.93,3,3
+CUST0992,Social Media,39,Male,5,6.8,0,0.0,5,4
+CUST0993,Social Media,37,Male,10,7.2,0,0.0,3,4
+CUST0994,Control,27,Female,8,12.1,0,0.0,2,2
+CUST0995,Social Media,40,Male,6,6.7,0,0.0,3,3
+CUST0996,Email,27,Female,4,4.9,0,0.0,4,4
+CUST0997,Email,29,Male,7,5.7,1,746.16,1,1
+CUST0998,Control,26,Female,6,18.6,1,616.2,3,2
+CUST0999,Social Media,46,Male,6,3.6,0,0.0,3,4
+CUST1000,Control,40,Female,4,6.0,1,327.69,2,2
+CUST1001,Control,39,Female,3,5.9,0,0.0,3,4
+CUST1002,Email,45,Female,8,6.1,0,0.0,3,2
+CUST1003,Control,59,Male,7,1.8,0,0.0,3,2
+CUST1004,Control,19,Male,7,2.9,0,0.0,3,4
+CUST1005,Email,27,Female,10,5.7,1,594.09,2,2
+CUST1006,Email,28,Male,3,4.7,0,0.0,2,3
+CUST1007,Social Media,26,Male,4,8.2,1,738.93,3,3
+CUST1008,Control,24,Female,12,13.2,0,0.0,4,4
+CUST1009,Social Media,31,Male,3,8.6,0,0.0,3,3
+CUST1010,Email,23,Female,8,7.4,0,0.0,3,2
+CUST1011,Email,37,Female,8,9.2,1,717.05,2,3
+CUST1012,Email,34,Male,6,7.8,0,0.0,3,5
+CUST1013,Email,38,Female,7,6.8,0,0.0,4,4
+CUST1014,Social Media,39,Male,11,11.9,0,0.0,4,3
+CUST1015,Email,39,Male,6,5.6,0,0.0,3,3
+CUST1016,Control,31,Male,4,2.9,0,0.0,1,1
+CUST1017,Social Media,53,Male,5,4.6,1,559.73,3,3
+CUST1018,Social Media,36,Male,4,4.2,0,0.0,3,4
+CUST1019,Control,18,Other,5,21.6,0,0.0,2,2
+CUST1020,Email,25,Female,4,13.7,0,0.0,3,3
+CUST1021,Social Media,18,Female,8,7.4,0,0.0,4,5
+CUST1022,Social Media,34,Male,3,4.3,0,0.0,3,3
+CUST1023,Social Media,33,Female,5,11.8,0,0.0,4,5
+CUST1024,Email,30,Female,8,7.3,0,0.0,2,3
+CUST1025,Email,52,Female,7,5.6,0,0.0,3,4
+CUST1026,Control,39,Male,3,7.3,0,0.0,1,1
+CUST1027,Social Media,41,Female,12,5.7,0,0.0,3,3
+CUST1028,Email,26,Female,4,9.1,0,0.0,2,2
+CUST1029,Social Media,25,Female,6,2.7,1,828.03,4,4
+CUST1030,Email,34,Female,5,9.0,1,833.22,4,4
+CUST1031,Email,36,Male,5,5.7,0,0.0,4,5
+CUST1032,Social Media,18,Female,7,11.9,0,0.0,3,4
+CUST1033,Email,32,Male,7,13.9,0,0.0,2,3
+CUST1034,Social Media,34,Male,5,15.7,1,728.74,2,2
+CUST1035,Email,32,Female,4,22.5,0,0.0,3,3
+CUST1036,Email,27,Male,3,15.4,0,0.0,5,5
+CUST1037,Email,29,Male,2,11.7,0,0.0,4,5
+CUST1038,Email,32,Male,3,3.0,0,0.0,3,3
+CUST1039,Email,35,Female,7,1.0,0,0.0,3,4
+CUST1040,Control,39,Female,6,12.7,0,0.0,3,3
+CUST1041,Control,44,Other,3,3.8,1,340.16,5,5
+CUST1042,Social Media,31,Male,1,31.8,1,637.83,4,5
+CUST1043,Email,30,Male,8,2.1,0,0.0,3,3
+CUST1044,Email,38,Male,10,11.4,0,0.0,3,4
+CUST1045,Control,39,Female,7,7.8,1,885.61,3,3
+CUST1046,Control,30,Male,7,2.3,1,384.12,4,4
+CUST1047,Control,41,Female,5,7.8,1,492.42,3,3
+CUST1048,Social Media,43,Male,6,4.1,1,497.35,2,2
+CUST1049,Social Media,46,Female,4,6.5,0,0.0,4,4
+CUST1050,Control,50,Female,2,6.6,0,0.0,3,3
+CUST1051,Social Media,26,Male,4,4.1,0,0.0,4,4
+CUST1052,Control,34,Male,8,5.4,0,0.0,5,5
+CUST1053,Control,34,Male,4,3.9,0,0.0,4,4
+CUST1054,Control,33,Female,6,1.6,0,0.0,4,5
+CUST1055,Control,28,Female,4,7.4,0,0.0,5,5
+CUST1056,Social Media,21,Male,9,15.3,0,0.0,3,4
+CUST1057,Social Media,35,Female,9,4.0,0,0.0,2,1
+CUST1058,Control,27,Female,7,20.0,0,0.0,3,2
+CUST1059,Email,35,Male,5,22.5,0,0.0,5,5
+CUST1060,Social Media,27,Female,2,5.1,0,0.0,2,2
+CUST1061,Social Media,24,Male,6,5.9,0,0.0,3,3
+CUST1062,Email,36,Female,6,5.2,0,0.0,4,4
+CUST1063,Control,35,Male,8,3.0,0,0.0,3,3
+CUST1064,Email,39,Male,4,6.0,0,0.0,3,4
+CUST1065,Control,54,Male,2,5.5,1,868.25,4,3
+CUST1066,Social Media,36,Male,8,7.3,0,0.0,3,5
+CUST1067,Email,38,Female,6,7.5,0,0.0,2,2
+CUST1068,Social Media,24,Male,2,2.8,1,645.2,2,3
+CUST1069,Control,22,Male,5,10.0,0,0.0,4,4
+CUST1070,Email,48,Male,7,5.9,1,839.79,3,4
+CUST1071,Social Media,26,Male,3,3.3,0,0.0,3,3
+CUST1072,Email,25,Male,10,5.8,0,0.0,2,3
+CUST1073,Email,34,Male,5,7.7,0,0.0,3,3
+CUST1074,Social Media,33,Male,6,17.0,0,0.0,4,5
+CUST1075,Social Media,26,Female,3,15.4,1,780.03,2,1
+CUST1076,Control,31,Male,7,4.8,0,0.0,3,4
+CUST1077,Email,45,Male,6,6.2,0,0.0,2,2
+CUST1078,Email,27,Female,6,3.8,0,0.0,3,3
+CUST1079,Email,21,Male,6,8.5,1,617.42,4,5
+CUST1080,Email,42,Male,10,5.0,0,0.0,5,5
+CUST1081,Control,38,Female,9,6.0,0,0.0,3,1
+CUST1082,Social Media,28,Male,1,13.0,1,870.54,3,3
+CUST1083,Social Media,20,Male,3,2.8,0,0.0,4,5
+CUST1084,Social Media,27,Male,3,15.4,0,0.0,4,5
+CUST1085,Social Media,34,Female,8,9.1,0,0.0,3,4
+CUST1086,Social Media,44,Male,6,15.0,0,0.0,5,5
+CUST1087,Social Media,25,Female,7,11.0,1,563.02,3,3
+CUST1088,Social Media,33,Male,7,12.3,0,0.0,3,5
+CUST1089,Email,40,Female,7,7.0,1,369.23,4,5
+CUST1090,Email,18,Male,5,3.2,0,0.0,4,4
+CUST1091,Control,43,Male,9,4.5,0,0.0,5,5
+CUST1092,Email,23,Male,7,3.9,0,0.0,3,4
+CUST1093,Control,37,Male,3,1.3,0,0.0,4,3
+CUST1094,Control,36,Male,5,13.0,0,0.0,3,3
+CUST1095,Email,44,Male,3,6.5,0,0.0,4,4
+CUST1096,Email,39,Female,3,3.7,0,0.0,3,4
+CUST1097,Control,18,Male,5,21.9,1,600.67,3,3
+CUST1098,Social Media,27,Male,8,27.7,0,0.0,4,3
+CUST1099,Social Media,35,Other,2,2.6,0,0.0,4,5
+CUST1100,Control,32,Other,5,6.0,0,0.0,2,2
+CUST1101,Control,38,Male,6,5.7,0,0.0,4,5
+CUST1102,Email,41,Male,6,3.5,0,0.0,4,5
+CUST1103,Social Media,39,Male,6,12.8,1,891.46,3,4
+CUST1104,Social Media,32,Female,9,1.3,0,0.0,3,4
+CUST1105,Control,18,Male,5,18.6,0,0.0,4,5
+CUST1106,Social Media,30,Male,5,7.2,0,0.0,4,5
+CUST1107,Control,38,Male,2,20.9,0,0.0,2,2
+CUST1108,Email,24,Male,6,6.9,0,0.0,4,5
+CUST1109,Social Media,40,Female,3,5.7,0,0.0,4,5
+CUST1110,Control,42,Female,8,13.4,0,0.0,1,1
+CUST1111,Control,35,Male,6,20.8,0,0.0,3,4
+CUST1112,Email,18,Female,2,18.8,1,451.75,4,4
+CUST1113,Email,22,Female,2,1.9,0,0.0,4,5
+CUST1114,Social Media,51,Female,5,15.9,0,0.0,4,4
+CUST1115,Social Media,29,Male,8,5.5,0,0.0,3,2
+CUST1116,Control,18,Male,3,6.4,0,0.0,2,2
+CUST1117,Control,45,Female,7,5.4,0,0.0,2,3
+CUST1118,Social Media,34,Female,5,4.5,0,0.0,4,4
+CUST1119,Control,44,Female,1,6.0,0,0.0,4,5
+CUST1120,Social Media,36,Female,5,3.4,0,0.0,4,4
+CUST1121,Email,38,Male,7,15.9,0,0.0,3,3
+CUST1122,Control,37,Male,9,10.9,1,419.05,4,5
+CUST1123,Social Media,40,Female,5,8.2,1,925.41,2,3
+CUST1124,Control,54,Male,7,5.4,1,308.2,2,2
+CUST1125,Email,43,Female,4,4.8,0,0.0,3,4
+CUST1126,Email,20,Female,10,9.3,1,336.97,4,5
+CUST1127,Email,38,Male,6,8.3,0,0.0,5,4
+CUST1128,Social Media,44,Male,9,14.0,0,0.0,3,3
+CUST1129,Email,45,Male,6,4.8,1,700.06,2,1
+CUST1130,Social Media,30,Female,5,4.5,1,414.87,2,3
+CUST1131,Social Media,44,Female,8,10.6,0,0.0,3,4
+CUST1132,Email,42,Female,3,12.1,1,712.73,5,5
+CUST1133,Control,57,Male,5,26.4,0,0.0,4,4
+CUST1134,Social Media,27,Other,3,1.8,0,0.0,4,5
+CUST1135,Social Media,29,Female,9,16.5,0,0.0,3,2
+CUST1136,Control,31,Male,9,7.7,0,0.0,3,3
+CUST1137,Email,30,Male,11,5.0,1,1162.56,4,3
+CUST1138,Email,26,Male,5,9.4,0,0.0,3,3
+CUST1139,Control,18,Female,4,9.2,0,0.0,3,4
+CUST1140,Social Media,30,Male,6,5.1,1,562.09,3,4
+CUST1141,Email,37,Female,3,1.9,1,1037.62,3,4
+CUST1142,Social Media,30,Male,5,16.5,1,353.58,3,3
+CUST1143,Social Media,51,Male,7,4.2,1,733.29,2,1
+CUST1144,Social Media,34,Male,5,3.8,1,619.53,3,3
+CUST1145,Email,46,Male,7,4.5,0,0.0,3,4
+CUST1146,Control,36,Male,7,11.7,0,0.0,3,3
+CUST1147,Social Media,41,Male,6,5.6,1,725.22,2,1
+CUST1148,Social Media,37,Male,3,4.6,0,0.0,3,3
+CUST1149,Email,46,Male,5,9.0,0,0.0,3,2
+CUST1150,Social Media,35,Female,5,8.2,0,0.0,3,4
+CUST1151,Control,38,Other,6,4.6,0,0.0,4,4
+CUST1152,Social Media,37,Male,9,1.9,0,0.0,2,1
+CUST1153,Control,31,Male,3,11.5,1,459.11,5,5
+CUST1154,Control,38,Male,7,8.3,0,0.0,3,3
+CUST1155,Email,54,Male,7,1.4,0,0.0,4,5
+CUST1156,Control,32,Female,6,17.9,0,0.0,3,5
+CUST1157,Control,38,Male,7,1.3,0,0.0,4,5
+CUST1158,Control,45,Female,6,4.0,0,0.0,3,3
+CUST1159,Email,44,Female,6,4.2,0,0.0,3,4
+CUST1160,Social Media,34,Female,10,4.7,0,0.0,3,3
+CUST1161,Control,18,Female,5,4.6,0,0.0,3,4
+CUST1162,Email,39,Female,6,2.7,0,0.0,4,5
+CUST1163,Social Media,18,Male,7,7.8,0,0.0,3,4
+CUST1164,Control,47,Female,7,12.7,0,0.0,3,2
+CUST1165,Control,36,Male,7,7.7,0,0.0,3,3
+CUST1166,Social Media,43,Female,5,8.6,0,0.0,3,3
+CUST1167,Social Media,26,Male,8,5.6,0,0.0,3,2
+CUST1168,Email,20,Male,9,7.5,1,807.06,4,4
+CUST1169,Social Media,36,Female,6,9.0,0,0.0,4,5
+CUST1170,Control,34,Male,8,10.9,0,0.0,4,4
+CUST1171,Email,30,Male,7,4.3,0,0.0,3,2
+CUST1172,Social Media,35,Male,7,3.9,0,0.0,4,4
+CUST1173,Control,59,Female,9,1.0,0,0.0,3,3
+CUST1174,Social Media,42,Male,6,21.1,0,0.0,2,2
+CUST1175,Email,43,Male,4,20.3,0,0.0,3,3
+CUST1176,Social Media,42,Female,8,6.7,0,0.0,3,3
+CUST1177,Email,47,Male,7,7.0,1,740.23,2,2
+CUST1178,Email,32,Female,9,17.2,0,0.0,3,3
+CUST1179,Control,18,Male,5,2.8,1,851.85,3,4
+CUST1180,Control,32,Female,8,3.6,1,476.3,2,2
+CUST1181,Social Media,41,Female,11,17.8,0,0.0,3,4
+CUST1182,Control,25,Other,7,5.6,0,0.0,5,5
+CUST1183,Control,32,Male,7,3.3,0,0.0,2,3
+CUST1184,Control,28,Male,7,9.4,0,0.0,3,4
+CUST1185,Control,48,Male,3,4.3,0,0.0,2,3
+CUST1186,Social Media,41,Female,8,16.0,0,0.0,3,2
+CUST1187,Email,40,Female,14,7.5,0,0.0,3,4
+CUST1188,Social Media,40,Female,5,4.5,1,663.3,2,3
+CUST1189,Control,34,Male,7,4.7,0,0.0,4,5
+CUST1190,Email,36,Female,9,9.1,0,0.0,4,4
+CUST1191,Email,23,Male,5,6.1,1,620.24,4,5
+CUST1192,Email,18,Female,4,5.5,1,477.39,4,4
+CUST1193,Social Media,35,Female,9,11.2,0,0.0,2,4
+CUST1194,Social Media,37,Female,8,17.3,0,0.0,3,2
+CUST1195,Social Media,45,Female,6,10.2,1,444.43,4,4
+CUST1196,Control,48,Female,6,4.1,0,0.0,4,3
+CUST1197,Control,48,Male,9,3.1,0,0.0,5,5
+CUST1198,Email,25,Female,6,10.8,1,250.55,4,5
+CUST1199,Control,31,Male,5,10.2,0,0.0,4,4
+CUST1200,Social Media,38,Male,6,5.3,0,0.0,5,5
