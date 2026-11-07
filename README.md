@@ -106,6 +106,6 @@ Further evaluate the Email campaign by analyzing purchase conversion rates and c
 
 ---
 
-**Author:** Data Analytics Portfolio Project
+**Author:** tanooja karri
 
 **Skills Demonstrated:** Data Cleaning | EDA | Python | Statistics | Hypothesis Testing | Business Insights
