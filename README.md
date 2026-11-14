@@ -96,14 +96,6 @@ Further evaluate the Email campaign by analyzing purchase conversion rates and c
 - Statistical significance does not establish causation.
 - Campaign costs and return on investment were not included.
 - Outlier removal may influence the results and should be evaluated through sensitivity analysis.
-
-## 📁 Project Files
-
-- `notebooks/` – Python analysis and hypothesis testing.
-- `data/` – Dataset used for analysis, if redistribution is permitted.
-- `visuals/` – Charts generated during analysis.
-- `report/` – Detailed findings report.
-
 ---
 
 **Author:** tanooja karri
