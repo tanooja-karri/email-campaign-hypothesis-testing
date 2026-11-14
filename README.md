@@ -90,12 +90,6 @@ The objective is to evaluate customer spending behaviour and understand whether 
 
 Further evaluate the Email campaign by analyzing purchase conversion rates and campaign costs before making a final decision about its overall effectiveness.
 
-## ⚠️ Limitations
-
-- The spending comparison considers only customers who made a purchase.
-- Statistical significance does not establish causation.
-- Campaign costs and return on investment were not included.
-- Outlier removal may influence the results and should be evaluated through sensitivity analysis.
 ---
 
 **Author:** tanooja karri
